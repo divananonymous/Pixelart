@@ -1,0 +1,57 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.cell {
+    background-color: black;
+}
+
+.field {
+    display: grid;
+    grid-template-columns: repeat(20, 20px);
+    grid-template-rows: repeat(225, 20px);
+    gap: 1px;
+    text-align: center;
+}
+
+.app {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.color div{
+    margin-bottom: 10px;
+}
+
+.blue {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.black {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+.green {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+.red {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.clear {
+    width: 100px;
+    height: 100px;
+}
