@@ -1,0 +1,217 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+main h1{
+    color: white;
+}
+.a {
+    display: flex;
+    justify-content: left;
+}
+
+header a{
+    color: white
+}
+
+.button1{
+    background-color: black;
+    border: 1px;
+    color: white
+}
+
+.button2{
+    background-color: yellow;
+    height: 30px;
+    border: 1px;
+}
+
+.flex1{
+    display: flex;
+    color: white;
+}
+.flex1 a{
+    color: white;
+
+}
+
+.part {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    min-height: 100vh;
+}
+
+main {
+    background-color: rgb(136, 67, 67);
+}
+
+.background3 {
+    background-color: rgb(136, 67, 67);
+    
+}
+
+.part1{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px;
+}
+
+.part2{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px;
+}
+
+.part3{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px;
+}
+
+.part4{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px;
+}
+
+footer{
+    background-color: grey;
+}
+
+footer a{
+    color: rgb(0, 0, 0);
+}
+
+.c {
+    display: flex;
+    justify-content: center;
+}
+
+.d {
+    display: flex;
+    justify-content: center;
+}
+
+.dudu {
+    background-color: rgb(19, 172, 73);
+    border: 5px solid rgb(51, 25, 154);
+    margin: 0 auto;
+    display: flex;
+    width: 100px;
+}
+
+.h {
+    display: flex;
+    justify-content: center;
+}
+
+.momo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gogo {
+    display: flex;
+    justify-content: center;
+}
+
+.background4 {
+    background-color: rgb(153, 25, 25);
+}
+
+header {
+    color: white;
+}
+
+.a1 {
+    padding-left: 5px;
+}
+
+.p1 {
+    color: gray;
+}
+
+.azz {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: hsl(180, 13%, 30%);
+    padding: 15px;
+}
+
+.type1 {
+    display: flex;
+    width: 40%;
+}
+
+.type2 {
+    display: flex;
+    width: 40%;
+}
+
+.type3 {
+    display: flex;
+    width: 40%;
+}
+
+.type4 {
+    display: flex;
+    width: 40%;
+}
+
+.image1{
+    background: gray;
+}
+
+.background2 {
+    background-color: rgb(153, 25, 25);
+}
+
+.type1 img{
+    border: 5px solid white;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.type2 img{
+    border: 5px solid white;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.type3 img{
+    border: 5px solid white;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.type4 img{
+    border: 5px solid white;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+ul {
+    list-style: none;
+}
+
+.tel1 {
+    margin-bottom: 12px;
+}
