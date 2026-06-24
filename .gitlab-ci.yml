@@ -1,0 +1,12 @@
+pages:
+
+  script:
+    - mkdir -p public
+    - cp -t public *.html *.css *.js
+
+  artifacts:
+    paths:
+      - public
+
+  only:
+    - main
